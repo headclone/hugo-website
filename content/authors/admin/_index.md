@@ -2,8 +2,7 @@
 title: Abhishek Desai, MD
 role: Clinical Research Fellow
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -39,10 +38,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am one of two [Clinical Research Fellows](http://www.uphs.upenn.edu/surgery/research/Plastic_Surgery/fellowship.html) at [Penn Plastic Surgery](https://www.pennmedicine.org/departments-and-centers/department-of-surgery/surgery-divisions/plastic-surgery).
+You can call me Abhi <span style="opacity:0.5">/ʌˈbʰe/</span>.
 
-I am PGY-3, and a categorical General Surgery resident at [Rutgers RWJ](https://rwjms.rutgers.edu/departments/surgery/divisions/other/division-of-general-surgery/residency/about-the-program).
-
-You can call me Abhi. /ʌˈbʰe/
+I am a PGY-3 surgical resident and the [Clinical Research Fellow](http://www.uphs.upenn.edu/surgery/research/Plastic_Surgery/fellowship.html) at [Penn Plastic Surgery](https://www.pennmedicine.org/departments-and-centers/department-of-surgery/surgery-divisions/plastic-surgery). I am on professional development hiatus from General Surgical training at [Rutgers RWJ](https://rwjms.rutgers.edu/departments/surgery/divisions/other/division-of-general-surgery/residency/about-the-program).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
