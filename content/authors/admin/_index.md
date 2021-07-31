@@ -1,7 +1,7 @@
 ---
 title: Abhishek Desai, MD
 role: Clinical Research Fellow
-avatar_filename: abhi-desai-id.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
