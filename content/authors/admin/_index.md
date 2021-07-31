@@ -29,8 +29,8 @@ organizations:
     url: https://www.pennmedicine.org/departments-and-centers/department-of-surgery/surgery-divisions/plastic-surgery
 education:
   courses:
-    - course: MD
-      institution: Boston University Seven-Year Liberal Arts/Medical Education Program
+    - course: MD, Boston University SOM
+      institution: Seven-Year Liberal Arts/Medical Education Program
       year: 2019
     - course: BA
       institution: Medical Science, Linguistics
